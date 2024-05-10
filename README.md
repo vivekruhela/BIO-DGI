@@ -6,3 +6,16 @@
 
 # Reference
 Ruhela, V., Oberoi, R., Gupta, R. and Gupta, A., 2023. A Comprehensive Targeted Panel of 295 Genes: Unveiling Key Disease Initiating and Transformative Biomarkers in Multiple Myeloma. bioRxiv, pp.2023-10.
+
+## License
+
+See the [LICENSE](LICENSE) file for license rights and limitations (Apache2.0).
+
+## Acknowledgements
+
+1. Authors would like to gratefully acknowledge the grant from the Department of Biotechnology, Govt. of India [Grant: BT/MED/30/SP11006/2015] and the Department of Science and Technology, Govt. of India [Grant: DST/ICPS/CPS-Individual/2018/279(G)].
+
+2. Authors would like to gratefully acknowledge the support of SBILab, Deptt. of ECE & Centre of Excellence in Healthcare, Indraprastha Institute of Information Technology-Delhi (IIIT-D), India, for providing guidance in tool methodology and development.
+
+3. The authors would like to acknowledge the support of the Computational Biology Dept., Indraprastha Institute of Information Technology-Delhi (IIIT-D), India, for providing resources for tool development.
+
